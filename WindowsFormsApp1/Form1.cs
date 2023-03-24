@@ -16,5 +16,10 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void btnRUN_Click(object sender, EventArgs e)
+        {
+            txbMSN.Text += "Macro issued.\n" + Environment.NewLine;
+        }
     }
 }
