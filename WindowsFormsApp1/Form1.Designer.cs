@@ -35,7 +35,7 @@
             // 
             // btnRUN
             // 
-            this.btnRUN.Location = new System.Drawing.Point(194, 176);
+            this.btnRUN.Location = new System.Drawing.Point(194, 99);
             this.btnRUN.Name = "btnRUN";
             this.btnRUN.Size = new System.Drawing.Size(75, 23);
             this.btnRUN.TabIndex = 0;
@@ -49,14 +49,14 @@
             this.txbMSN.Multiline = true;
             this.txbMSN.Name = "txbMSN";
             this.txbMSN.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.txbMSN.Size = new System.Drawing.Size(256, 157);
+            this.txbMSN.Size = new System.Drawing.Size(256, 78);
             this.txbMSN.TabIndex = 1;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(281, 211);
+            this.ClientSize = new System.Drawing.Size(281, 134);
             this.Controls.Add(this.txbMSN);
             this.Controls.Add(this.btnRUN);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
